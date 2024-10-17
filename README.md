@@ -10,5 +10,5 @@ Certifique-se de que você tenha o [Node.js](https://nodejs.org/) e o [npm](http
 
 1. Clone o repositório ou baixe o projeto:  
    ```bash  
-   git clone <URL_DO_REPOSITORIO>  
+   git clone https://github.com/KauaH0093/Automa-o-de-Testes-com-Mocha-ou-Jest.git 
    cd meu-projeto-mocha
